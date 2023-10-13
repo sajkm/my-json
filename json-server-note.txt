@@ -1,0 +1,13 @@
+               REST API with Deployable JSON Server
+            -------------------------------
+
+         1.Create a Server Folder
+         2.Create a package.json file : npm init -y  
+         3.install packages to run json file : npm i json-server 
+         4.create .gitignore file, inorder to ignore node_modules 
+         5.create a db.json file to store json data
+         6.create index.js file to define json server
+            - import json-server in undex.js file
+            - 
+         7.To run server use command npm start , update start in script of package.
+         json file as - "start": "node index.js"    

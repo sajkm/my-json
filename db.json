@@ -1,0 +1,61 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "hukum",
+      "url": "https://static.toiimg.com/photo/msid-101846970/101846970.jpg",
+      "embedlink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "4",
+      "caption": "pal",
+      "url": "https://c.saavncdn.com/208/Pal-From-Jalebi--Hindi-2018-20180912085100-500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/aDFEb_W2t1Y"
+    },
+    {
+      "id": "5",
+      "caption": "chaltha rahe",
+      "url": "https://i.ytimg.com/vi/BFlM5jKBuLs/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/BFlM5jKBuLs"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "hukum",
+          "url": "https://static.toiimg.com/photo/msid-101846970/101846970.jpg",
+          "embedlink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        },
+        {
+          "id": "4",
+          "caption": "pal",
+          "url": "https://c.saavncdn.com/208/Pal-From-Jalebi--Hindi-2018-20180912085100-500x500.jpg",
+          "embedlink": "https://www.youtube.com/embed/aDFEb_W2t1Y"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "album",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "chaltha rahe",
+      "embedlink": "https://www.youtube.com/embed/BFlM5jKBuLs",
+      "timestamp": "10/13/2023, 11:32:56 AM",
+      "id": 1
+    },
+    {
+      "caption": "hukum",
+      "embedlink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timestamp": "10/13/2023, 11:33:17 AM",
+      "id": 2
+    }
+  ]
+}
